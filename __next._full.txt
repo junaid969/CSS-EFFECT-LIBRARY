@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:"/CSS-EFFECT-LIBRARY/_next/static/chunks/3ioh15gq2dhrj.js"
+3:"/CSS-EFFECT-LIBRARY/_next/static/chunks/3bo90q4zmsrf8.js"
+4:I[27423,["$2","$3"],"ThemeProvider"]
+5:"/CSS-EFFECT-LIBRARY/_next/static/chunks/3q-zy3vo6qnyo.js"
+6:I[79871,["$2","$3","$5"],"MotionProvider"]
+7:I[39756,["$2","$3"],"default"]
+8:I[37457,["$2","$3"],"default"]
+9:I[77855,["$2","$3"],"Toaster"]
+b:I[79871,["$2","$3","$5"],"PageTransition"]
+c:I[33869,["$2","$3","$5"],"SiteHeader"]
+d:I[27308,["$2","$3","$5"],"Hero"]
+e:I[67919,["$2","$3","$5"],"ColorPalettes"]
+f:I[20703,["$2","$3","$5"],"EffectGallery"]
+10:I[40465,["$2","$3","$5"],"HowItWorks"]
+11:I[48399,["$2","$3","$5"],"Features"]
+12:I[85133,["$2","$3","$5"],"Faq"]
+13:I[42377,["$2","$3","$5"],"FeedbackSection"]
+14:I[90890,["$2","$3","$5"],"CtaBand"]
+15:I[88574,["$2","$3","$5"],"SiteFooter"]
+16:I[61683,["$2","$3","$5"],"BackToTop"]
+17:I[97367,["$2","$3"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:"ViewportBoundary"
+1b:I[97367,["$2","$3"],"$1a"]
+1d:"MetadataBoundary"
+1e:I[97367,["$2","$3"],"$1d"]
+20:I[68027,["$2","$3"],"default",1]
+:HL["/CSS-EFFECT-LIBRARY/_next/static/chunks/361w87mea3yxc.css","style"]
+:HL["/CSS-EFFECT-LIBRARY/_next/static/chunks/2omrf5n1-2nt2.css","style"]
+:HL["/CSS-EFFECT-LIBRARY/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/CSS-EFFECT-LIBRARY/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Lb",null,{"className":"flex min-h-screen flex-col","children":[["$","$Lc",null,{}],["$","main",null,{"className":"flex-1","children":[["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}]]}],["$","$L15",null,{}],["$","$L16",null,{}]]}],[["$","script","script-0",{"src":"/CSS-EFFECT-LIBRARY/_next/static/chunks/3q-zy3vo6qnyo.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":false,"v":null}}]]
+0:{"P":null,"c":["",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/CSS-EFFECT-LIBRARY/_next/static/chunks/361w87mea3yxc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/CSS-EFFECT-LIBRARY/_next/static/chunks/2omrf5n1-2nt2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/CSS-EFFECT-LIBRARY/_next/static/chunks/3ioh15gq2dhrj.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/CSS-EFFECT-LIBRARY/_next/static/chunks/3bo90q4zmsrf8.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"T19VSG_variable _8Li5zG_variable antialiased bg-background text-foreground","children":["$","$L4",null,{"attribute":"class","defaultTheme":"system","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L6",null,{"children":[["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}]]}]}]}]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1f"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$20",[["$","link","0",{"rel":"stylesheet","href":"/CSS-EFFECT-LIBRARY/_next/static/chunks/361w87mea3yxc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/CSS-EFFECT-LIBRARY/_next/static/chunks/2omrf5n1-2nt2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"O_inSTld0MA2OznLHQsNJ"}
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+21:I[27201,["$2","$3"],"IconMark"]
+19:null
+1f:[["$","title","0",{"children":"CSS Effects Lab — Live CSS Effect Library with Copy-Ready Code"}],["$","meta","1",{"name":"description","content":"A complete library of pure CSS effects with live online demonstrations and copy-ready HTML/CSS code."}],["$","meta","2",{"name":"keywords","content":"CSS effects,CSS animations,CSS loaders,CSS buttons,hover effects,code library,pure CSS"}],["$","meta","3",{"property":"og:title","content":"CSS Effects Lab"}],["$","meta","4",{"property":"og:description","content":"Live CSS effect demos with copy-ready code, powered by pure CSS."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"CSS Effects Lab"}],["$","meta","8",{"name":"twitter:description","content":"Live CSS effect demos with copy-ready code, powered by pure CSS."}],["$","link","9",{"rel":"icon","href":"https://z-cdn.chatglm.cn/z-ai/static/logo.svg"}],["$","$L21","10",{}]]
